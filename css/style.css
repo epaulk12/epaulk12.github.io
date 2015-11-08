@@ -1,0 +1,98 @@
+@import url(https://fonts.googleapis.com/css?family=Homemade+Apple);
+@import url(https://fonts.googleapis.com/css?family=Oranienbaum);
+
+body {
+font-size: 12px;
+font-family: serif;
+color: black;
+background-image: url("../img/retina_wood.png");
+    
+}
+
+p {
+font-size: 14px;
+font-family: serif;
+color: darkblue;
+
+}
+
+a {
+color: darkblue;
+    
+}
+    
+h1 {
+font-size: 60px;
+font-family: "Homemade Apple", cursive;
+color: black;
+text-align: center;
+
+}
+
+h2 {
+font-size: 20px;
+font-family: "Oranienbaum", sans-serif;
+color: black;
+padding: 5px 5px;
+
+}
+
+h3 {
+font-size: 16px;
+font-family: serif;
+color: darkblue;
+
+    
+}
+
+address {
+text-align: center;
+padding-bottom: 5px;
+font-family: serif;
+
+}
+
+
+nav ul li {
+font-size: 14px;
+font-family: serif;
+display:inline;
+text-align: center;
+padding: 5px 5px;
+background-color: white;
+margin-left: 20px;
+   
+}
+
+ul li {
+padding: 5px;
+
+}
+
+
+footer {
+font-size: 9px;
+font-family: sans-serif;
+text-align: center;
+text-transform: capitalize;
+
+}
+
+#container {
+background-image:url("../img/linedpaper.png");
+border: 1px solid;
+width: 600px;
+margin: 0 auto;
+text-align: left;
+padding: 10px;
+    
+}
+
+
+img {
+float: right;
+margin: auto;
+border: 1px solid;
+border-color: black;
+    
+}

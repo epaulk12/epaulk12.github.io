@@ -5,7 +5,7 @@ body {
 font-size: 12px;
 font-family: serif;
 color: black;
-background-image: url("../img/retina_wood.png");
+background-image: url("../img/swirl_pattern.png");
     
 }
 
@@ -79,7 +79,7 @@ text-transform: capitalize;
 }
 
 #container {
-background-image:url("../img/linedpaper.png");
+background-image:url("../img/stardust.png");
 border: 1px solid;
 width: 600px;
 margin: 0 auto;

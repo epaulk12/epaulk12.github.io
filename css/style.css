@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Homemade+Apple);
+@import url(https://fonts.googleapis.com/css?family=Julius+Sans+One);
 @import url(https://fonts.googleapis.com/css?family=Oranienbaum);
 
 body {
@@ -23,7 +23,7 @@ color: darkblue;
 
 h1 {
 font-size: 60px;
-font-family: "Homemade Apple", cursive;
+font-family: "Julius Sans One", sans-serif;
 color: black;
 text-align: center;
 
@@ -55,12 +55,12 @@ font-family: serif;
 
 nav ul li {
 font-size: 14px;
-font-family: serif;
+font-family: ;
 display:inline;
 text-align: center;
 padding: 5px 5px;
-background-color: white;
 margin-left: 20px;
+color: white
    
 }
 
@@ -91,5 +91,5 @@ padding: 10px;
 
 img {
 margin: auto;
-  
+    
 }

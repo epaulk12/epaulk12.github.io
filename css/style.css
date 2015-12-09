@@ -12,7 +12,7 @@ background-image: url("../img/swirl_pattern.png");
 p {
 font-size: 14px;
 font-family: serif;
-color: darkblue;
+color: white;
 
 }
 
@@ -81,7 +81,7 @@ text-transform: capitalize;
 #container {
 background-image:url("../img/stardust.png");
 border: 1px solid;
-width: 600px;
+width: 900px;
 margin: 0 auto;
 text-align: left;
 padding: 10px;

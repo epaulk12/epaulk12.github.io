@@ -102,6 +102,14 @@ background-color: white;
 
 }
 
+#footer {
+width: 1000;
+background: black;
+margin: auto;
+text-align: center;
+color: white;
+
+}
 
 
 img {
@@ -109,3 +117,4 @@ margin: auto;
 align-content: center;
     
 }
+

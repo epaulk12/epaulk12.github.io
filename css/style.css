@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Julius+Sans+One);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
 @import url(https://fonts.googleapis.com/css?family=Oranienbaum);
 
 body {
@@ -23,7 +23,7 @@ color: white;
 
 h1 {
 font-size: 60px;
-font-family: "Julius Sans One", sans-serif;
+font-family: "Pacifico", cursive;
 color: white;
 text-align: center;
 
@@ -86,11 +86,10 @@ padding: 5px;
 }
 
 #nav {
-background:salmon; 
-height: 500;
+background: grey; 
+height: auto;
 width: auto;
 float: left;
-line-height: 30px;
 
 }
 
@@ -98,6 +97,7 @@ line-height: 30px;
 width: auto;
 float: inherit;
 background-color: white;
+margin-left: 5px;
 
 }
 

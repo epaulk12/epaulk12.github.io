@@ -81,7 +81,7 @@ text-transform: capitalize;
 }
 
 #top {
-background: black;
+background-image: url("../img/yo.png")
 width: 1000;
 margin: 0 auto;
 text-align: center;

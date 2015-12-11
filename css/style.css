@@ -48,16 +48,9 @@ color: darkblue;
     
 }
 
-address {
-text-align: center;
-padding-bottom: 5px;
-font-family: serif;
-
-}
-
 
 nav ul li {
-font-size: 50px;
+font-size: 20px;
 color: white;
 height: auto;
    
@@ -66,6 +59,7 @@ height: auto;
 ul li {
 display: block;
 text-align: inherit;
+font-size: 50px;
 
 }
 

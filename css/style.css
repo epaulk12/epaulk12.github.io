@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Sacramento);
 @import url(https://fonts.googleapis.com/css?family=Oranienbaum);
 
 body {
@@ -19,12 +19,13 @@ margin: auto;
 
 a {
 color: white;
+font-family: 
     
 }
 
 h1 {
 font-size: 40px;
-font-family: "Pacifico", cursive;
+font-family: "Sacramento", cursive;
 color: white;
 text-align: center;
 margin: auto;
@@ -60,12 +61,13 @@ font-size: 20px;
 padding: 5px 5px;
 margin-left: 20px;
 color: white;
-display: inline;
+height: auto;
    
 }
 
 ul li {
 padding: 5px;
+display: block;
 
 }
 

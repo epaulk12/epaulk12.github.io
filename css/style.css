@@ -78,9 +78,10 @@ text-transform: capitalize;
 
 #top {
 background: black;
-width: 900;
+width: 1000;
 margin: 0 auto;
 text-align: center;
+padding: 5px;
     
 }
 

@@ -76,8 +76,8 @@ text-transform: capitalize;
 
 #top {
 background-image: url("../img/yo.jpg");
-height: 600;
-width: 1000;
+height: 600px;
+width: 1000px;
 margin: 0 auto;
 text-align: center;
 padding: 5px;
@@ -87,7 +87,7 @@ padding: 5px;
 #nav {
 background: grey; 
 height: auto;
-width: auto;
+width: 500px;
 float: left;
 
 }

@@ -78,7 +78,7 @@ text-transform: capitalize;
 
 #top {
 background: black;
-width: auto;
+width: 1000;
 margin: 0 auto;
 text-align: center;
 padding: 5px;
@@ -95,7 +95,7 @@ padding: 5;
 }
 
 #section {
-width: auto;
+width: 1000;
 float: left;
 padding: 10px;
 background-color: white;

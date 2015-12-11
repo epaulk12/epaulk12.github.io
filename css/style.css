@@ -22,11 +22,12 @@ color: white;
 }
 
 h1 {
-font-size: 60px;
+font-size: 40px;
 font-family: "Pacifico", cursive;
 color: white;
 text-align: center;
-
+margin: auto;
+    
 }
 
 h2 {

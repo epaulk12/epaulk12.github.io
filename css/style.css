@@ -59,7 +59,9 @@ height: auto;
 ul li {
 display: block;
 text-align: inherit;
-font-size: 50px;
+font-size: 25px;
+text-decoration: none;
+font-family: "Sacramento", serif;
 
 }
 

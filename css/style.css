@@ -78,19 +78,36 @@ text-transform: capitalize;
 
 }
 
-#container {
-background-image:url("../img/stardust.png");
+#top {
 border: 1px solid;
 width: 1000px;
 margin: 0 auto;
-text-align: left;
-padding: 10px;
+text-align: center;
+padding: 5px;
     
 }
+
+#nav {
+background: black;
+height: auto;
+width: auto;
+float: left;
+padding: 5;
+
+}
+
+#section {
+width: auto;
+float: left;
+padding: 10px;
+
+}
+
 
 
 img {
 margin: auto;
 align-content: center;
+border:
     
 }

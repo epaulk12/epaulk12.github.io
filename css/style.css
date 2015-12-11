@@ -79,8 +79,8 @@ text-transform: capitalize;
 }
 
 #top {
-border: 1px solid;
-width: 1000px;
+background: black;
+width: auto;
 margin: 0 auto;
 text-align: center;
 padding: 5px;

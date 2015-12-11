@@ -95,8 +95,8 @@ line-height: 30px;
 }
 
 #section {
-width: 1000;
-float: left;
+width: auto;
+float: inherit;
 background-color: white;
 
 }

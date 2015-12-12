@@ -33,7 +33,7 @@ margin: auto;
 }
 
 h2 {
-font-size: 40px;
+font-size: 20px;
 font-family: "Sacramento", sans-serif;
 color: black;
 
@@ -52,6 +52,7 @@ nav ul li {
 font-size: 20px;
 color: white;
 height: auto;
+display: inline;
    
 }
 

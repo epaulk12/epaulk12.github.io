@@ -43,17 +43,19 @@ color: darkblue;
 
 
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-    position: fixed;
-    top: 0;
-    width: 100%;
+    
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333;
+position: fixed;
+top: 0;
+width: 100%;
 
 
 nav ul li {
+    
 font-size: 50px;
 color: white;
 height: auto;
@@ -62,15 +64,17 @@ font-family: "Sacramento",sans-serif;
 }
 
 li {
-    float: left;
+float: left;
+    
 }
 
 li a {
-    display: inline-block;
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    padding: 12px 14px;
+display: inline-block;
+color: white;
+text-align: center;
+text-decoration: none;
+padding: 12px 14px;
+    
 }
 
 
@@ -79,6 +83,7 @@ font-size: 9px;
 font-family: sans-serif;
 text-align: center;
 text-transform: capitalize;
+color: aliceblue;
 
 }
 
@@ -93,13 +98,13 @@ text-align: center;
 #section {
 width: auto;
 float: left;
-background-color: white;
+background-color: seashell;
 
 }
 
 #footer {
 width: 1000;
-background: black;
+background: white;
 margin: auto;
 text-align: center;
 color: white;

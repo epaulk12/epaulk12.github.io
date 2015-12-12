@@ -56,11 +56,12 @@ height: auto;
 }
 
 ul li {
-display: block;
+display: inline;
 text-align: inherit;
 font-size: 25px;
 text-decoration: none;
 font-family: "Sacramento", serif;
+border: solid; 1px;
 
 }
 

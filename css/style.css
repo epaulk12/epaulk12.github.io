@@ -17,6 +17,10 @@ margin: auto;
 
 }
 
+a {
+color: white
+    
+}
 
 h1 {
 font-size: 80px;
@@ -42,7 +46,7 @@ color: darkblue;
     
 }
 
-nav ul li {
+ul li {
     
 list-style: none;
 margin: 0;
@@ -50,7 +54,6 @@ padding: 0;
 overflow: hidden;
 float: left;
 text-decoration: none;
-display: inline-block;
 
 }
     

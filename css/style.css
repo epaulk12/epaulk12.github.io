@@ -94,6 +94,12 @@ float: left;
 
 }
 
+li a {
+    
+display: inline-block;
+    
+}
+
 
 img {
 margin: auto;

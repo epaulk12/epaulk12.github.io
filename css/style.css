@@ -17,6 +17,11 @@ margin: auto;
 
 }
     
+a {
+text-decoration: none;
+display: inline-block;
+    
+}
 
 h1 {
 font-size: 80px;
@@ -54,6 +59,7 @@ position: fixed;
 top: 0;
 width: 100%;
 
+}
 
 nav ul li {
     

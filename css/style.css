@@ -18,7 +18,9 @@ margin: auto;
 }
 
 a {
-color: white
+color: white;
+text-decoration: none;
+
     
 }
 
@@ -53,7 +55,9 @@ margin: 0;
 padding: 0;
 overflow: hidden;
 float: left;
-text-decoration: none;
+display: inline;
+background: white;
+
 
 }
     

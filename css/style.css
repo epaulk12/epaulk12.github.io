@@ -54,16 +54,22 @@ ul {
 
 
 nav ul li {
-font-size: 50px;
+font-size: 20px;
 color: white;
 height: auto;
 font-family: "Sacramento",sans-serif;
    
 }
 
+
 li {
     float: left;
 }
+
+ul li {
+display: block;
+text-align: right;
+
 
 li a {
     display: inline-block;

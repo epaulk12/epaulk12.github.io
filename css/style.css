@@ -17,11 +17,6 @@ margin: auto;
 
 }
 
-a {
-color: white;
-font-family: 
-    
-}
 
 h1 {
 font-size: 80px;
@@ -55,6 +50,7 @@ padding: 0;
 overflow: hidden;
 float: left;
 text-decoration: none;
+display: inline-block;
 
 }
     

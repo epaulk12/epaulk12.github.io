@@ -105,14 +105,14 @@ height: 400px;
 
 
 #section {
-width: 800;
+width: 800px;
 height: auto;
-background-color: seashell;
+background-color: black;
 
 }
 
 #footer {
-width: 1000;
+width: 800px;
 background-color: aliceblue;
 margin: auto;
 text-align: center;

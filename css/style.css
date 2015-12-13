@@ -116,13 +116,6 @@ margin: auto;
 text-align: center;
 color: white;
 
-}
-
-.bmodel {
-
-display: block;
-margin-left: auto;
-margin-right: auto;
     
 }
 
@@ -138,4 +131,7 @@ padding-right: 5px;
 }
 
 
+span.centerImage {
+     text-align: center;
+}
 

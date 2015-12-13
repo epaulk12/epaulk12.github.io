@@ -24,7 +24,7 @@ display: inline-block;
 }
 
 h1 {
-font-size: 50px;
+font-size: 30px;
 font-family: "Sacramento", cursive;
 color: black;
 text-align: center;
@@ -33,7 +33,7 @@ margin: auto;
 }
 
 h2 {
-font-size: 50px;
+font-size: 25px;
 font-family: "Sacramento", sans-serif;
 color: black;
 text-align: center;
@@ -57,7 +57,7 @@ overflow: hidden;
 background-color: #333;
 position: fixed;
 top: 0;
-
+width: auto;
 
 }
 

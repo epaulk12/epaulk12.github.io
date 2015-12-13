@@ -82,15 +82,6 @@ text-align: center;
 text-decoration: none;
 padding: 12px 14px;
     
-}
-
-
-footer {
-font-size: 9px;
-font-family: sans-serif;
-text-align: center;
-text-transform: capitalize;
-background-color: aliceblue;
 
 }
 
@@ -108,13 +99,12 @@ height: 400px;
 width: 800px;
 height: auto;
 background-color: white;
-text-align: center;
-
+text-align:
 }
 
 #footer {
 width: 800px;
-background-color: aliceblue;
+background-color: black;
 margin: auto;
 text-align: center;
 color: white;

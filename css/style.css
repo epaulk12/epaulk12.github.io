@@ -55,7 +55,6 @@ margin: 0;
 padding: 0;
 overflow: hidden;
 background-color: #333;
-width: 800px;
 
 }
 
@@ -65,11 +64,12 @@ font-size: 20px;
 color: white;
 height: auto;
 font-family: "Sacramento",sans-serif;
+width: 800px;
    
 }
 
 li {
-float: right;
+float: left;
     
 }
 

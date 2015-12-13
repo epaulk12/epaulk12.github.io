@@ -52,7 +52,6 @@ ul {
 list-style-type: none;
 margin: auto;
 background-color: #333;
-width: 800px;
 text-align: center;
 overflow: hidden;
 
@@ -78,7 +77,7 @@ display: block;
 color: white;
 text-align: center;
 text-decoration: none;
-
+padding: 12px 14px;
     
 
 }

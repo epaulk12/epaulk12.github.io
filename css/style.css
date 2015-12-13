@@ -80,8 +80,18 @@ text-align: center;
 text-decoration: none;
 padding: 12px 14px;
     
+    
+li a: hover {
+color: black;
+background-color: salmon;
 
 }
+    
+.active {
+background-color: salmon;
+    
+}
+
 
 
 #top {
@@ -123,4 +133,5 @@ border: solid 1px;
 border-color: black;
 
 }
+
 

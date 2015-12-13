@@ -50,8 +50,7 @@ color: darkblue;
 ul {
     
 list-style-type: none;
-margin: 0;
-padding: 0;
+margin: auto;
 background-color: #333;
 width: 800px;
 text-align: center;

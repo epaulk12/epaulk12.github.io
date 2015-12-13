@@ -79,19 +79,17 @@ color: white;
 text-align: center;
 text-decoration: none;
 padding: 12px 14px;
-    
-    
-li a: hover {
-color: black;
-background-color: salmon;
 
 }
-    
+
 .active {
 background-color: salmon;
-    
+
 }
 
+li a:hover {
+background-color: salmon;
+}
 
 
 #top {

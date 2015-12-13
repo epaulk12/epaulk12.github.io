@@ -24,7 +24,7 @@ display: inline-block;
 }
 
 h1 {
-font-size: 80px;
+font-size: 60px;
 font-family: "Sacramento", cursive;
 color: black;
 text-align: center;
@@ -72,7 +72,7 @@ font-family: "Sacramento",sans-serif;
 }
 
 li {
-float: left;
+float: center;
     
 }
 

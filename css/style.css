@@ -4,8 +4,7 @@ body {
 font-size: 12px;
 font-family: serif;
 color: white;
-background-color: white;
-    
+background-image:url("../img/white_wall.png")
 }
 
 p {
@@ -81,6 +80,8 @@ padding: 12px 14px;
     
 
 }
+
+a:hover 
 
 #top {
 background-image: url("../img/yo.jpg");

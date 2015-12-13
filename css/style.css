@@ -67,6 +67,7 @@ font-size: 20px;
 color: white;
 height: auto;
 font-family: "Sacramento",sans-serif;
+
    
 }
 
@@ -98,14 +99,15 @@ background-color: aliceblue;
 background-image: url("../img/yo.jpg");
 margin: 0 auto;
 text-align: center;
-
+width: 800px;
+height: 400px;
 
 }
 
 
 #section {
-width: auto;
-float: left;
+width: 800;
+height: auto;
 background-color: seashell;
 
 }

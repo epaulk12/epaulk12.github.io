@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Sacramento);
-@import url(https://fonts.googleapis.com/css?family=Oranienbaum);
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+@import url(https://fonts.googleapis.com/css?family=Quicksand|Elsie+Swash+Caps);
 
 body {
 font-size: 12px;
@@ -11,7 +11,7 @@ background-color: white;
 
 p {
 font-size: 14px;
-font-family: serif;
+font-family: "Quicksand", serif;
 color: black;
 margin: auto;
 
@@ -19,13 +19,13 @@ margin: auto;
     
 a {
 text-decoration: none;
-display: inline-block;
+display: inline;
     
 }
 
 h1 {
-font-size: 30px;
-font-family: "Sacramento", cursive;
+font-size: 50px;
+font-family: "Elsie Swash Caps", cursive;
 color: black;
 text-align: center;
 margin: auto;
@@ -34,7 +34,7 @@ margin: auto;
 
 h2 {
 font-size: 25px;
-font-family: "Sacramento", sans-serif;
+font-family: "Elsie Swash Caps", sans-serif;
 color: black;
 text-align: center;
 
@@ -63,7 +63,7 @@ nav ul li {
 font-size: 20px;
 color: white;
 height: auto;
-font-family: "Sacramento",sans-serif;
+font-family: "Elsie Swash Caps",sans-serif;
 
    
 }
@@ -96,7 +96,7 @@ height: 400px;
 #section {
 width: 800px;
 background-color: white;
-text-align: center;
+text-align: left;
 margin: auto;
     
 }

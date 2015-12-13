@@ -118,6 +118,13 @@ color: white;
 
 }
 
+#bmodel {
+
+border: none;
+float: none;
+margin: auto;
+
+}
 
 
 img {
@@ -129,5 +136,6 @@ border-color: black;
 padding-right: 5px;
 
 }
+
 
 

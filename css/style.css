@@ -52,8 +52,9 @@ ul {
 list-style-type: none;
 margin: auto;
 background-color: #333;
-width: 800px;
+width: 758px;
 text-align: center;
+overflow: hidden;
 
 }
 
@@ -73,6 +74,7 @@ float: left;
 }
 
 li a {
+display: block;
 color: white;
 text-align: center;
 text-decoration: none;

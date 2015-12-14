@@ -1,15 +1,22 @@
 
-@media (max-device-width: 320px) {
+@media only screen
+and (max-device-width: 320px) {
 
 body {
 font-size: 24px;
 font-family: serif;
+background-color: black;
 
 }
     
 header {
 height: 93px;
 
+}
+    
+p {
+margin: auto;
+    
 }
     
 nav {
@@ -19,17 +26,19 @@ width: auto;
 }
     
 .image2 {
-margin-left: 219px;
+float: none;
+width: auto;
 
 }
 
 .image3 {
-margin-left: 219px;
-    
+float: none;
+width: auto;
 }
 
 .image4 {
-margin-left: 219px;
+float: none;
+width: auto;
     
 }   
     

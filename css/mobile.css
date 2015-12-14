@@ -11,6 +11,7 @@ background-color: black;
     
 header {
 height: 93px;
+width: auto;
 
 }
     
@@ -28,17 +29,21 @@ width: auto;
 .image2 {
 float: none;
 width: auto;
+height: 90px;
 
 }
 
 .image3 {
 float: none;
 width: auto;
+height: 90px;
+    
 }
 
 .image4 {
 float: none;
 width: auto;
+height: 90px;
     
 }   
     

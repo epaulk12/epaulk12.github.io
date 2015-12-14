@@ -8,12 +8,6 @@ font-family: serif;
 
 }
     
-image1 {
-height: 50px;
-width: 20px;
-
-}
-    
 p {
 margin: auto;
     
@@ -21,6 +15,12 @@ margin: auto;
     
 nav {
 
+width: auto;
+
+}
+    
+.image1 {
+height: 300px;
 width: auto;
 
 }

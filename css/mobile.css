@@ -1,0 +1,36 @@
+
+@media (max-device-width: 320px) {
+
+body {
+font-size: 24px;
+font-family: serif;
+
+}
+    
+header {
+height: 93px;
+
+}
+    
+nav {
+
+width: auto;
+
+}
+    
+.image2 {
+margin-left: 219px;
+
+}
+
+.image3 {
+margin-left: 219px;
+    
+}
+
+.image4 {
+margin-left: 219px;
+    
+}   
+    
+} 

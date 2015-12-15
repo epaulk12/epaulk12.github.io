@@ -23,6 +23,11 @@ float: none;
     
 }
     
+li a {
+padding:inherit;
+    
+}
+    
 #top {
 height: 100px;
 

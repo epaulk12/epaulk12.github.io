@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Quicksand|Elsie+Swash+Caps);
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
 @import url(https://fonts.googleapis.com/css?family=Julius+Sans+One);
 
 body {
@@ -25,10 +25,10 @@ color: salmon;
     
 }
 
-a: visited {
-color: salmon;
+a:visited {
 
-    
+color: black;
+
 }
 
 h1 {

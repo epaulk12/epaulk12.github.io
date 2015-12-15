@@ -14,9 +14,13 @@ margin: auto;
 }
     
 nav {
-
 width: auto;
 
+}
+  
+li {
+float: none;
+    
 }
     
 #top {
